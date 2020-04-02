@@ -1,0 +1,27 @@
+Fallos Prominentes proyecto:
+
+-No hay ganador :/ si un perdedor pero nadie gana.
+
+-El tablero es inestable, con algunas cantidades de planetas
+ funciona y con otras no.
+
+-Con algunas cantidades de planetas es juego se rompe.
+
+-La cantidad de planetas no puede ser menor a 4 para que 
+ el juego funcione.
+
+-Los constructores son metodos y no clases.
+
+-NO use polimorfismo en los Guerreros ni en las naves (En los planetas si)
+
+Indicaciones:
+
+** Los nombres siempre se ponen en orden alfabetico por lo que si el planeta no se muestra pero hay una letra de posición superor en el mapa, el planeta seguramente existe.
+
+** En funcion de hacer el proceso de calificacion mas corto, ambos jugadores iniciales reciben cantidades iniciales exageradas de guerreros y naves XWing.
+
+**Cantidades que funcionan en el generador de mapas son:
+	5, 8, 10, 12, etc... (el 6 no)
+**La cantidad de filas y columnas no importa.
+
+
